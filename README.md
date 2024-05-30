@@ -1,7 +1,7 @@
 <h3 align="center" >Olá sou Jhon Itallo!😃</h3>
 
 <div style="display: inline_blok" align="center">
-  <h2>Tecnologias</h2>
+  <h2>Tecnologias que eu domino</h2>
   
   <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="Css"/>
